@@ -6,3 +6,11 @@ theme = 'kaslaanka'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+sitename = "Kaslaanka Theme"
+copyrights = "John Doe"
+defaultList = "global"
+paginationLen = 3
+projectsURL = "https://example.com"
+brief_about = "<center>Kaslaanka theme demo made with ❤️️</center>"
