@@ -1,16 +1,21 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jamosully.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'kaslaanka' 
+title = 'JOSullivan'
+theme = 'terminal' 
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 [params]
-sitename = "Kaslaanka Theme"
-copyrights = "John Doe"
+sitename = "JOS"
+copyrights = "James O'Sullivan"
 defaultList = "global"
 paginationLen = 3
 projectsURL = "https://example.com"
-brief_about = "<center>Kaslaanka theme demo made with ❤️️</center>"
+brief_about = "<center>More to come soon!</center>"
+
+[build]
+  list = 'always'
+  publishResources = true
+  render = 'always'
