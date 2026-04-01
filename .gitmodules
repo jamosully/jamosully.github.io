@@ -1,3 +1,6 @@
 [submodule "themes/kaslaanka"]
 	path = themes/kaslaanka
 	url = https://github.com/Iossefy/kaslaanka.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
