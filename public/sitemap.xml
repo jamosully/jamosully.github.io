@@ -4,7 +4,11 @@
   <url>
     <loc>http://localhost:1313/3dtest/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
